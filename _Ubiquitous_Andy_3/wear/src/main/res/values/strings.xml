@@ -1,0 +1,9 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Ubiquitous</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">PowerSunshine</string>
+
+
+    <string name="format_temperature"><xliff:g id="high">%1$1.0f</xliff:g>\u00B0 <xliff:g id="unit">%2$s</xliff:g> / <xliff:g id="low">%3$1.0f</xliff:g>\u00B0 <xliff:g id="unit">%4$s</xliff:g></string>
+</resources>
+
